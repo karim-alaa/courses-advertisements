@@ -1,0 +1,31 @@
+  .topics
+  {
+  	padding-top: 60px;
+  	background-color: #85f4ee;
+
+  	}  
+  .qodef-section-inner-margin
+  	{
+margin-bottom: 20px;
+  	}
+
+.qodef-drop-down .second 
+{
+border-top: 7px solid #108d87;
+}
+.qodef-drop-down .second .inner ul li.sub ul li:hover>a, .qodef-drop-down .second .inner>ul>li:hover>a
+{
+	color: #108d87;
+	font-weight: bold;
+}
+
+  .vc_custom_1445506120301 {
+    padding-top: 40px !important;
+    padding-bottom: 10px !important;
+  }
+
+  #mds_team
+  {
+    background-color: #e0fcfa;
+    padding: 10px;
+  }

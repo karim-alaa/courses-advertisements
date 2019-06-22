@@ -5,7 +5,6 @@
 * [Laravel](https://laravel.com/docs/5.5)
 * [MySql](https://www.mysql.com)
 
-# test
-<h3> admin </h3>
+## Admin Test
 * email : admin3@yahoo.com
 * password : 123456
